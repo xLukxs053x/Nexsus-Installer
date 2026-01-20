@@ -74,7 +74,3 @@ Dieses Projekt nutzt modernste Technologien für maximale Performance:
 | **Tools** | ![Git](https://img.shields.io/badge/Git-VCS-F05032?style=flat&logo=git&logoColor=white) ![PyMongo](https://img.shields.io/badge/PyMongo-Driver-47A248?style=flat) |
 
 ---
-
-
-# Server starten
-python app.py
