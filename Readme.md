@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1409892452298522844/1463086167527264442/icon.png?ex=69708cad&is=696f3b2d&hm=2bc863aae67fb68f44c12da650af166509e2ede6e94936489b664ccbd731468c" alt="Nexsus Logo" width="150" height="150" />
+  <img src="https://cdn.discordapp.com/attachments/1409892452298522844/1463086167527264442/icon.png?ex=69708cad&is=696f3b2d&hm=2bc863aae67fb68f44c12da650af166509e2ede6e94936489b664ccbd731468c" alt="Nexsus Logo" width="150" height="150" />
 
   # NEXSUS UPLINK
   **Die nächste Generation der Community-Kommunikation**
@@ -26,6 +26,13 @@
     <a href="#roadmap">Roadmap</a>
   </h4>
 </div>
+
+---
+
+> [!IMPORTANT]
+> **🚧 ENTWICKLUNGS-STATUS: EARLY ACCESS**
+> 
+> Dieses Projekt befindet sich derzeit in der **aktiven Entwicklung** (Alpha/Beta). Features können sich ändern, und es kann gelegentlich zu Fehlern kommen. Wir arbeiten täglich daran, Nexsus stabiler und besser zu machen!
 
 ---
 
@@ -67,3 +74,7 @@ Dieses Projekt nutzt modernste Technologien für maximale Performance:
 | **Tools** | ![Git](https://img.shields.io/badge/Git-VCS-F05032?style=flat&logo=git&logoColor=white) ![PyMongo](https://img.shields.io/badge/PyMongo-Driver-47A248?style=flat) |
 
 ---
+
+
+# Server starten
+python app.py
