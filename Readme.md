@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/150/0d0d12/FFFFFF?text=NEXSUS" alt="Nexsus Logo" width="150" height="150" />
+  <img src="[https://via.placeholder.com](https://cdn.discordapp.com/attachments/1409892452298522844/1463086167527264442/icon.png?ex=69708cad&is=696f3b2d&hm=2bc863aae67fb68f44c12da650af166509e2ede6e94936489b664ccbd731468c)/150/0d0d12/FFFFFF?text=NEXSUS" alt="Nexsus Logo" width="150" height="150" />
 
   # NEXSUS UPLINK
   **Die nächste Generation der Community-Kommunikation**
