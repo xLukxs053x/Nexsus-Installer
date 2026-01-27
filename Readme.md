@@ -37,11 +37,14 @@ Nexsus verbindet Menschen in einer geschützten, performanten Umgebung. Die Komb
 
 ## 🛠️ Tech Stack
 
-| Layer | Stack |
+Dieses Projekt nutzt modernste Technologien für maximale Performance:
+
+| Bereich | Technologien |
 | :--- | :--- |
-| **Backend** | `Python` • `Flask` • `Socket.io` |
-| **Storage** | `MongoDB` |
-| **Client** | `Electron` • `HTML5` • `JavaScript` |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2.0+-000000?style=flat&logo=flask&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-Server-010101?style=flat&logo=socket.io&logoColor=white) |
+| **Datenbank** | ![MongoDB](https://img.shields.io/badge/MongoDB-Core-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Frontend** | ![Electron](https://img.shields.io/badge/Electron-Desktop-47848F?style=flat&logo=electron&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-Struct-E34F26?style=flat&logo=html5&logoColor=white) |
+
 
 ---
 
